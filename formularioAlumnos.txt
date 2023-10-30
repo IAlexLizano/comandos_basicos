@@ -1,0 +1,9 @@
+###############################################
+#############FORMULARIO ALUMNOS################
+
+CEDULA:
+NOMBRES:
+APELLIDOS:
+CORREO:
+DIRECCION:
+F. NACIMIENTO:
